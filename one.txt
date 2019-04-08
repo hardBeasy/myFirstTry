@@ -1,1 +1,2 @@
 easy
+next line is easy too!
